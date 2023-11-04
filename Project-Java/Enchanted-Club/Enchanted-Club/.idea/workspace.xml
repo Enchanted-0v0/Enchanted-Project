@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c8b9a1-cb09-4f7c-9339-4d3e235d6832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-job/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-job/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-mq/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699101968957</updated>
-      <workItem from="1699101969899" duration="4170000" />
+      <workItem from="1699101969899" duration="5041000" />
     </task>
     <servers />
   </component>

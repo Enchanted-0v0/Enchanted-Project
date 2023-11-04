@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Enchanted-Club-subject-api" />
-        <module name="Enchanted-Club-subject-application" />
         <module name="Enchanted-Club-subject-application-job" />
         <module name="Enchanted-Club-subject-starter" />
         <module name="Enchanted-Club-subject-common" />

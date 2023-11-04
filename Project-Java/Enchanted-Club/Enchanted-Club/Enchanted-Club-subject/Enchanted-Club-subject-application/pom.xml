@@ -10,6 +10,12 @@
     </parent>
 
     <artifactId>Enchanted-Club-subject-application</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Enchanted-Club-subject-application-controller</module>
+        <module>Enchanted-Club-subject-application-job</module>
+        <module>Enchanted-Club-subject-application-mq</module>
+    </modules>
 
 
 </project>
