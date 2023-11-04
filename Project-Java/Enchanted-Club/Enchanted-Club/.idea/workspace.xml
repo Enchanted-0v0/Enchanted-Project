@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6c8b9a1-cb09-4f7c-9339-4d3e235d6832" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-job/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../Maven/MavenRepository" />
+        <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2XiBM4xl4FarCRo6L9pEGzMuLOi" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev-EnchantedClub",
+    "jdk.selected.JAVA_MODULE": "1.8.0_271",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c8b9a1-cb09-4f7c-9339-4d3e235d6832" name="Changes" comment="" />
+      <created>1699101968957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699101968957</updated>
+      <workItem from="1699101969899" duration="4170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
