@@ -13,6 +13,7 @@
         <module name="Enchanted-Club-subject-common" />
         <module name="Enchanted-Club-subject-infra" />
         <module name="Enchanted-Club-subject-domain" />
+        <module name="Enchanted-Club-subject-application-mq" />
         <module name="Enchanted-Club-subject-application-controller" />
       </profile>
     </annotationProcessing>

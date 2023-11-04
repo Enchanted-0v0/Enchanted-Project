@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c8b9a1-cb09-4f7c-9339-4d3e235d6832" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-job/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-mq/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,15 +35,22 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2XiBM4xl4FarCRo6L9pEGzMuLOi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -49,6 +64,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SubjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Enchanted-Club-subject-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enchanted.subject.SubjectApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enchanted.subject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SubjectApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699101968957</updated>
-      <workItem from="1699101969899" duration="5041000" />
+      <workItem from="1699101969899" duration="7074000" />
+      <workItem from="1699123516583" duration="3737000" />
     </task>
     <servers />
   </component>
