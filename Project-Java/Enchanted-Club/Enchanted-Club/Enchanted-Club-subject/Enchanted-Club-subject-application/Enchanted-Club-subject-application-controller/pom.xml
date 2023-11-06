@@ -17,6 +17,11 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <version>2.4.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.enchanted</groupId>
+            <artifactId>Enchanted-Club-subject-infra</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 

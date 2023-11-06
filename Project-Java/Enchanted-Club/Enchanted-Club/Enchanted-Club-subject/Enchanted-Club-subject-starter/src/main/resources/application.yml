@@ -1,2 +1,31 @@
 server:
   port: 3000
+
+spring:
+  datasource:
+    username: root
+    password: encrypt:N7wEy3OhzYU9A46YkDEA2Cy0CfFyw1uo2Hjsu0gCcYJsK4JxLUHwFxtF/pcDxSoywey7C/ABX104jwIEIRi1OA==
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://60.204.222.73:3306/Enchanted-Club?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8&useSSL=false
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      initial-size: 20
+      min-idle: 20
+      connectionProperties: config.decrypt=true;config.decrypt.key=${publicKey};
+      max-active: 100
+      max-wait: 60000
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        login-username: admin
+        login-password: 1234567890
+      filter:
+        stat:
+          enabled: true
+          slow-sql-millis: 2000
+          log-slow-sql: true
+        wall:
+          enabled: true
+        config:
+          enabled: true
+publicKey: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIKVyLSEqlOvB2AGcdm92vHEHIiakSgrNvaDgW9whCxD2gPLxWT32J9a6Y601y/P0SFrI/FEN6bM4aoidCAxzfsCAwEAAQ==
