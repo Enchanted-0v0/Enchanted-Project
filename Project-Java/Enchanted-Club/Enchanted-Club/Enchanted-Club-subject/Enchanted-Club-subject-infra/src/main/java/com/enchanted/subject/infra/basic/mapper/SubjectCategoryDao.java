@@ -5,10 +5,10 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * (SubjectCategory)表数据库访问层
+ * 题目分类(SubjectCategory)表数据库访问层
  *
  * @author makejava
- * @since 2023-11-06 15:12:59
+ * @since 2023-10-01 21:49:58
  */
 public interface SubjectCategoryDao {
 
@@ -19,7 +19,6 @@ public interface SubjectCategoryDao {
      * @return 实例对象
      */
     SubjectCategory queryById(Long id);
-
 
     /**
      * 统计总行数
@@ -70,5 +69,6 @@ public interface SubjectCategoryDao {
      */
     int deleteById(Long id);
 
-}
+    List<SubjectCategory> queryCategory(SubjectCategory subjectCategory);
 
+}

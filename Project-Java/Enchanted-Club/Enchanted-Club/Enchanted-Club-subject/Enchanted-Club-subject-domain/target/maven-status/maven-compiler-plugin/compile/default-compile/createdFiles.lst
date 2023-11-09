@@ -1,0 +1,5 @@
+com/enchanted/subject/domain/service/impl/SubjectCategoryDomainServiceImpl.class
+com/enchanted/subject/domain/service/SubjectCategoryDomainService.class
+com/enchanted/subject/domain/entity/SubjectCategoryBO.class
+com/enchanted/subject/domain/convert/SubjectCategoryConverterImpl.class
+com/enchanted/subject/domain/convert/SubjectCategoryConverter.class

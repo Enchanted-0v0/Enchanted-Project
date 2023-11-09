@@ -22,6 +22,12 @@
             <artifactId>Enchanted-Club-subject-infra</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.enchanted</groupId>
+            <artifactId>Enchanted-Club-subject-domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 

@@ -5,6 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
+import java.util.HashMap;
+
 /**
  * @ClassName: SubjectApplication
  * @Description: TODO: 刷题微服务启动类

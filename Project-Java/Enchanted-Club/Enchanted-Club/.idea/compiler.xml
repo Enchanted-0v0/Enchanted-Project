@@ -12,13 +12,13 @@
         <module name="Enchanted-Club-subject-starter" />
         <module name="Enchanted-Club-subject-common" />
         <module name="Enchanted-Club-subject-infra" />
-        <module name="Enchanted-Club-subject-domain" />
         <module name="Enchanted-Club-subject-application-mq" />
+        <module name="Enchanted-Club-subject-domain" />
         <module name="Enchanted-Club-subject-application-controller" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="untitledEnchanted-Club-subject-application-mq" target="1.8" />
+      <module name="Enchanted-Club" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
