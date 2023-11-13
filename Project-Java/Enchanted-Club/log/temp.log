@@ -1,0 +1,23 @@
+16:11:59.406  [main] INFO  com.enchanted.subject.SubjectApplication - Starting SubjectApplication using Java 1.8.0_302 on EnchanteddeMacBook-Pro.local with PID 27902 (/Users/enchanted/Enchanted/CodeRepository/Project/Project-Java/Enchanted-Club/Enchanted-Club/Enchanted-Club-subject/Enchanted-Club-subject-starter/target/classes started by enchanted in /Users/enchanted/Enchanted/CodeRepository/Project/Project-Java/Enchanted-Club/Enchanted-Club)
+16:11:59.475  [main] INFO  com.enchanted.subject.SubjectApplication - No active profile set, falling back to default profiles: default
+16:12:00.765  [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3000 (http)
+16:12:00.772  [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+16:12:00.772  [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:12:00.772  [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:12:00.827  [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:12:00.828  [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1297 ms
+16:12:00.955  [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+16:12:03.929  [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:12:04.356  [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:12:04.602  [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+16:12:04.623  [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3000 (http) with context path ''
+16:12:04.636  [main] INFO  com.enchanted.subject.SubjectApplication - Started SubjectApplication in 5.828 seconds (JVM running for 6.64)
+16:12:27.100  [http-nio-3000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:12:27.102  [http-nio-3000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:12:27.106  [http-nio-3000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+16:12:27.239  [http-nio-3000-exec-1] INFO  com.enchanted.subject.applicaiton.controller.SubjectCategoryController - SubjectCategoryController.add.dto:{"categoryName":"java","categoryType":1,"imageUrl":"http://image/123","parentId":0}
+16:12:27.249  [http-nio-3000-exec-1] INFO  com.enchanted.subject.domain.service.impl.SubjectCategoryDomainServiceImpl - SubjectCategoryController.add.bo:{"categoryName":"java","categoryType":1,"imageUrl":"http://image/123","parentId":0}
+16:12:27.258  [http-nio-3000-exec-1] INFO  com.enchanted.subject.infra.basic.service.impl.SubjectCategoryServiceImpl - SubjectCategoryController.add.subjectCategory:{"categoryName":"java","categoryType":1,"imageUrl":"http://image/123","parentId":0}
+17:28:17.748  [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+17:28:17.751  [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:28:17.782  [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

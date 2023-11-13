@@ -6,7 +6,7 @@ import javax.annotation.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-11-10T00:35:43+0800",
+    date = "2023-11-10T13:29:04+0800",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 1.8.0_302 (Temurin)"
 )
 public class SubjectCategoryConverterImpl implements SubjectCategoryConverter {

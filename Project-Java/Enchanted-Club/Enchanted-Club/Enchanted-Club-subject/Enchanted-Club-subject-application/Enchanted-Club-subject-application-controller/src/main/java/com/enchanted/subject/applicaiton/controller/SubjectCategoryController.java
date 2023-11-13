@@ -1,10 +1,12 @@
 package com.enchanted.subject.applicaiton.controller;
 
+import com.alibaba.fastjson.JSON;
 import com.enchanted.subject.applicaiton.convert.SubjectCategoryDTOConverter;
 import com.enchanted.subject.applicaiton.dto.SubjectCategoryDTO;
 import com.enchanted.subject.common.entity.Result;
 import com.enchanted.subject.domain.entity.SubjectCategoryBO;
 import com.enchanted.subject.domain.service.SubjectCategoryDomainService;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,6 +24,7 @@ import javax.annotation.Resource;
  */
 @RestController
 @RequestMapping("/subject/category")
+@Slf4j
 public class SubjectCategoryController {
     @Resource
     private SubjectCategoryDomainService subjectCategoryDomainService;
@@ -29,6 +32,9 @@ public class SubjectCategoryController {
     @PostMapping("/add")
     public Result<Boolean> add(@RequestBody SubjectCategoryDTO subjectCategoryDTO) {
         try {
+            if (log.isInfoEnabled()) {
+                log.info("SubjectCategoryController.add.dto:{}", JSON.toJSONString(subjectCategoryDTO));
+            }
             SubjectCategoryBO subjectCategoryBO = SubjectCategoryDTOConverter.INSTANCE.convertDtoToCategoryBO(subjectCategoryDTO);
             subjectCategoryDomainService.add(subjectCategoryBO);
             return Result.ok(true);

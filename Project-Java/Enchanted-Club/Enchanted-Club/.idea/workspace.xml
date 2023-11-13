@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c8b9a1-cb09-4f7c-9339-4d3e235d6832" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/Enchanted-Club-subject-application-controller-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/Enchanted-Club-subject-application-controller-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/src/main/java/com/enchanted/subject/applicaiton/controller/SubjectCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/src/main/java/com/enchanted/subject/applicaiton/controller/SubjectCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/classes/com/enchanted/subject/applicaiton/controller/SubjectCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/classes/com/enchanted/subject/applicaiton/controller/SubjectCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/generated-sources/annotations/com/enchanted/subject/applicaiton/convert/SubjectCategoryDTOConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-application/Enchanted-Club-subject-application-controller/target/generated-sources/annotations/com/enchanted/subject/applicaiton/convert/SubjectCategoryDTOConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/src/main/java/com/enchanted/subject/domain/service/impl/SubjectCategoryDomainServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/src/main/java/com/enchanted/subject/domain/service/impl/SubjectCategoryDomainServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/target/classes/com/enchanted/subject/domain/service/impl/SubjectCategoryDomainServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/target/classes/com/enchanted/subject/domain/service/impl/SubjectCategoryDomainServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/target/generated-sources/annotations/com/enchanted/subject/domain/convert/SubjectCategoryConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-domain/target/generated-sources/annotations/com/enchanted/subject/domain/convert/SubjectCategoryConverterImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/entity/SubjectCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/entity/SubjectCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/mapper/SubjectCategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/mapper/SubjectCategoryDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/Enchanted-Club-subject-infra-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/Enchanted-Club-subject-infra-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/classes/com/enchanted/subject/infra/basic/entity/SubjectCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/classes/com/enchanted/subject/infra/basic/entity/SubjectCategory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/src/main/java/com/enchanted/subject/SubjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/src/main/java/com/enchanted/subject/SubjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/service/impl/SubjectCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/src/main/java/com/enchanted/subject/infra/basic/service/impl/SubjectCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/classes/com/enchanted/subject/infra/basic/service/impl/SubjectCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-infra/target/classes/com/enchanted/subject/infra/basic/service/impl/SubjectCategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/target/classes/com/enchanted/subject/SubjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Enchanted-Club-subject/Enchanted-Club-subject-starter/target/classes/com/enchanted/subject/SubjectApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -92,7 +90,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -152,12 +150,19 @@
       <workItem from="1699525714510" duration="169000" />
       <workItem from="1699525890582" duration="162000" />
       <workItem from="1699526079113" duration="201000" />
-      <workItem from="1699531487618" duration="15531000" />
+      <workItem from="1699531487618" duration="16330000" />
+      <workItem from="1699589256392" duration="3247000" />
+      <workItem from="1699593707784" duration="233000" />
+      <workItem from="1699593948245" duration="3554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Enchanted_Club$DruidEncryptUtil.ic" NAME="DruidEncryptUtil Coverage Results" MODIFIED="1699275302408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
