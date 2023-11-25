@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-coupon-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-order-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-product-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +28,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2YX4K7ArTHI9nlMtkNG6ip8ubF5" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -48,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Enchanted-Shop-v1.0",
+    "git-widget-placeholder": "dev-EnchantedShop-v1.0",
     "jdk.selected.JAVA_MODULE": "zulu-11",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
