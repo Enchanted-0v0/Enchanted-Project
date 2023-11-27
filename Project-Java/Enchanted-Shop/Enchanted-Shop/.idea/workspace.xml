@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/service/Impl/AddressServiceImpl.java" root0="SKIP_INSPECTION" />
@@ -56,29 +56,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Enchanted-Shop-v1.0-2023.11.27",
-    "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "/Users/enchanted/Enchanted/CodeRepository/Project/Project-Java/Enchanted-Shop/Enchanted-Shop/EnchantedShop-user-service/src/main/resources/mapper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.14619881",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Enchanted-Shop-v1.0-2023.11.27&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/enchanted/Enchanted/CodeRepository/Project/Project-Java/Enchanted-Shop/Enchanted-Shop/EnchantedShop-user-service/src/main/resources/mapper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.14619881&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/mapper" />
@@ -134,7 +134,7 @@
       <workItem from="1700957167185" duration="4302000" />
       <workItem from="1700973220156" duration="12000" />
       <workItem from="1700973266949" duration="4406000" />
-      <workItem from="1701048385599" duration="1212000" />
+      <workItem from="1701048385599" duration="3307000" />
     </task>
     <servers />
   </component>
