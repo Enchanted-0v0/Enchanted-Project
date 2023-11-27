@@ -1,6 +1,7 @@
 package com.enchanted.shop.controller;
 
 
+import com.enchanted.shop.exception.BizException;
 import com.enchanted.shop.model.AddressDO;
 import com.enchanted.shop.service.AddressService;
 import com.enchanted.shop.utils.JsonData;
@@ -35,8 +36,15 @@ public class AddressController {
     @ApiOperation("根据id查找地址详情")
     @GetMapping("/find/{address_id}")
     public Object detail(@ApiParam(value = "地址id", required = true)
-                             @PathVariable("address_id") Long addressId) {
+                         @PathVariable("address_id") Long addressId) {
         AddressDO addressDO = addressService.detail(addressId);
+        // 模拟非业务异常 - 除 0 异常
+        // int i = 1 / 0;
+
+        // 模拟业务异常
+        //if (addressId == 1) {
+        //    throw new BizException(-1, "测试自定义异常");
+        //}
         return JsonData.buildSuccess(addressDO);
     }
 }
