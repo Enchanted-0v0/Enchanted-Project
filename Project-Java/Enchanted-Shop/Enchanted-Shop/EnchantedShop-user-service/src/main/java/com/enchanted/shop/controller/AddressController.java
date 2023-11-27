@@ -1,7 +1,9 @@
 package com.enchanted.shop.controller;
 
 
+import com.enchanted.shop.model.AddressDO;
 import com.enchanted.shop.service.AddressService;
+import com.enchanted.shop.utils.JsonData;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
@@ -34,8 +36,8 @@ public class AddressController {
     @GetMapping("/find/{address_id}")
     public Object detail(@ApiParam(value = "地址id", required = true)
                              @PathVariable("address_id") Long addressId) {
-
-        return addressService.detail(addressId);
+        AddressDO addressDO = addressService.detail(addressId);
+        return JsonData.buildSuccess(addressDO);
     }
 }
 

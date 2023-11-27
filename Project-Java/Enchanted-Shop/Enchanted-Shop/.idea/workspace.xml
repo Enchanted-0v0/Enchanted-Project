@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/config/SwaggerConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/JsonData.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/service/Impl/AddressServiceImpl.java" root0="SKIP_INSPECTION" />
@@ -134,7 +135,8 @@
       <workItem from="1700957167185" duration="4302000" />
       <workItem from="1700973220156" duration="12000" />
       <workItem from="1700973266949" duration="4406000" />
-      <workItem from="1701048385599" duration="3307000" />
+      <workItem from="1701048385599" duration="4403000" />
+      <workItem from="1701091534357" duration="1673000" />
     </task>
     <servers />
   </component>
