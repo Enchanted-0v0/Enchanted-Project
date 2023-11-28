@@ -12,7 +12,7 @@ spring:
     username: root
     password: 1234567890
 
-#配置plus打印sql日志
+#配置mybatis plus控制台打印sql日志
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
