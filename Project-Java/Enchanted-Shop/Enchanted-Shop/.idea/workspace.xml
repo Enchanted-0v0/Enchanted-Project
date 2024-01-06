@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/NotifyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/NotifyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/exception/BizException.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/exception/CustomExceptionHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/CommonUtil.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/JsonData.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/config/CaptchaConfig.java" root0="SKIP_INSPECTION" />
@@ -71,7 +73,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Enchanted-Shop-v1.0-2023.12.10",
+    "git-widget-placeholder": "Enchanted-Shop-v1.0-2024.01.06",
     "jdk.selected.JAVA_MODULE": "zulu-11",
     "last_opened_file_path": "/Users/enchanted/Enchanted/CodeRepository/Project/Project-Java/Enchanted-Shop/Enchanted-Shop/EnchantedShop-user-service/src/main/resources/mapper",
     "node.js.detected.package.eslint": "true",
@@ -160,7 +162,9 @@
       <workItem from="1701048385599" duration="4403000" />
       <workItem from="1701091534357" duration="4551000" />
       <workItem from="1701136102283" duration="1842000" />
-      <workItem from="1702172028890" duration="3192000" />
+      <workItem from="1702172028890" duration="4330000" />
+      <workItem from="1703150381703" duration="5000" />
+      <workItem from="1704490315837" duration="2801000" />
     </task>
     <servers />
   </component>

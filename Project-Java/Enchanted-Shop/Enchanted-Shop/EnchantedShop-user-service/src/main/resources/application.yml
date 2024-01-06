@@ -11,6 +11,11 @@ spring:
     url: jdbc:mysql://127.0.0.1:3308/EnchantedShop_User?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
     password: 1234567890
+# redis配置
+  redis:
+    host: 60.204.222.73
+    port: 8000
+    password: Enchanted0v0Redis@.
 
 #配置mybatis plus控制台打印sql日志
 mybatis-plus:
