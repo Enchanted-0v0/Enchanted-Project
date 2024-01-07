@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="" />
+    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/UserController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +185,7 @@
       <workItem from="1702172028890" duration="4330000" />
       <workItem from="1703150381703" duration="5000" />
       <workItem from="1704490315837" duration="7531000" />
-      <workItem from="1704546294983" duration="10101000" />
+      <workItem from="1704546294983" duration="13894000" />
     </task>
     <servers />
   </component>
