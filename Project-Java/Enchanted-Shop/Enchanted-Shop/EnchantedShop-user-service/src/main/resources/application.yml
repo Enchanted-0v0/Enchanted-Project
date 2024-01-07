@@ -38,3 +38,11 @@ mybatis-plus:
 logging:
   level:
     root: INFO
+
+#阿里云OSS配置
+aliyun:
+  oss:
+    endpoint: oss-cn-shanghai.aliyuncs.com
+    access-key-id: LTAI5tEANbjYESui31oPtoEF
+    access-key-secret: tlxDCNe65WYiH9wg3L9OuaB9K4qezT
+    bucketname: enchanted-shop-img
