@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/CommonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/CommonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/NotifyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/NotifyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/service/Impl/MailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/component/impl/MailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/service/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/component/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/test/java/com/enchanted/shop/biz/MailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/test/java/com/enchanted/shop/biz/MailTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -30,13 +35,16 @@
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/enums/BizCodeEnum.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/exception/BizException.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/exception/CustomExceptionHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/CheckUtil.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/CommonUtil.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-common/src/main/java/com/enchanted/shop/utils/JsonData.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/component/MailService.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/config/CaptchaConfig.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/AddressController.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/controller/NotifyController.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/java/com/enchanted/shop/service/Impl/AddressServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/mapper/AddressMapper.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/mapper/UserMapper.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
@@ -180,7 +188,8 @@
       <workItem from="1701136102283" duration="1842000" />
       <workItem from="1702172028890" duration="4330000" />
       <workItem from="1703150381703" duration="5000" />
-      <workItem from="1704490315837" duration="5366000" />
+      <workItem from="1704490315837" duration="7531000" />
+      <workItem from="1704546294983" duration="2786000" />
     </task>
     <servers />
   </component>

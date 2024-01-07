@@ -1,6 +1,6 @@
-package com.enchanted.shop.service.Impl;
+package com.enchanted.shop.component.impl;
 
-import com.enchanted.shop.service.MailService;
+import com.enchanted.shop.component.MailService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

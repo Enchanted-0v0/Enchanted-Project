@@ -1,4 +1,4 @@
-package com.enchanted.shop.service;
+package com.enchanted.shop.component;
 
 import org.springframework.data.redis.core.StringRedisTemplate;
 

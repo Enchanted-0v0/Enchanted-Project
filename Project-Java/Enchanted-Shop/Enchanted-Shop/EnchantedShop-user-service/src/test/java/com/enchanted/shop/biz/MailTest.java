@@ -1,7 +1,7 @@
 package com.enchanted.shop.biz;
 
 import com.enchanted.shop.UserApplication;
-import com.enchanted.shop.service.MailService;
+import com.enchanted.shop.component.MailService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
