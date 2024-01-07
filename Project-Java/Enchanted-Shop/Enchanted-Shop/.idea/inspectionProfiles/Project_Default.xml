@@ -2,7 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ADDITIONAL_TAGS" value="ClassName:,Description:,PackageName:com.enchanted.shop.db,Author,Date,Version,PackageName:com.enchanted.shop,PackageName:com.enchanted.shop.service,PackageName:com.enchanted.shop.service.Impl,PackageName:com.enchanted.shop.config,PackageName:com.enchanted.shop.exception,PackageName:com.enchanted.shop.biz,PackageName:com.enchanted.shop.controller,PackageName:com.enchanted.shop.enums" />
+      <option name="ADDITIONAL_TAGS" value="ClassName:,Description:,PackageName:com.enchanted.shop.db,Author,Date,Version,PackageName:com.enchanted.shop,PackageName:com.enchanted.shop.service,PackageName:com.enchanted.shop.service.Impl,PackageName:com.enchanted.shop.config,PackageName:com.enchanted.shop.exception,PackageName:com.enchanted.shop.biz,PackageName:com.enchanted.shop.controller,PackageName:com.enchanted.shop.enums,PackageName:com.enchanted.shop.constant" />
     </inspection_tool>
   </profile>
 </component>
