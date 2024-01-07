@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/EnchantedShop-user-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efb86c4b-f66c-452d-bf1c-85018b08cb92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +182,7 @@
       <workItem from="1702172028890" duration="4330000" />
       <workItem from="1703150381703" duration="5000" />
       <workItem from="1704490315837" duration="7531000" />
-      <workItem from="1704546294983" duration="8278000" />
+      <workItem from="1704546294983" duration="10101000" />
     </task>
     <servers />
   </component>
