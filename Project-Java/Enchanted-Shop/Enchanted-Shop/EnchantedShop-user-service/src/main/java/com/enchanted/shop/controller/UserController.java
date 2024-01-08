@@ -2,17 +2,16 @@ package com.enchanted.shop.controller;
 
 
 import com.enchanted.shop.enums.BizCodeEnum;
+import com.enchanted.shop.request.UserRegisterRequest;
 import com.enchanted.shop.service.FileService;
+import com.enchanted.shop.service.UserService;
 import com.enchanted.shop.utils.JsonData;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
-import org.springframework.web.bind.annotation.RequestPart;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
@@ -29,6 +28,9 @@ import org.springframework.web.multipart.MultipartFile;
 public class UserController {
     @Autowired
     private FileService fileService;
+
+    @Autowired
+    private UserService userService;
 
     /**
      * 上传用户头像
@@ -48,6 +50,19 @@ public class UserController {
 
 
         return result!=null? JsonData.buildSuccess(result):JsonData.buildResult(BizCodeEnum.FILE_UPLOAD_USER_IMG_FAIL);
+    }
+
+    /**
+     *  用户注册
+     * @param registerRequest
+     * @return
+     */
+    @ApiOperation("用户注册")
+    @PostMapping("register")
+    public JsonData register(@ApiParam("用户注册对象") @RequestBody UserRegisterRequest registerRequest){
+
+        JsonData jsonData = userService.register(registerRequest);
+        return jsonData;
     }
 }
 
